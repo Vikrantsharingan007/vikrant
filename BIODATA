@@ -1,0 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    printf("\t\t\tBIODATA\nNAME:VIKRANT SIGH\nROLL NO.:B19CS031\nPHONE NO.:9871778103");
+
+}
